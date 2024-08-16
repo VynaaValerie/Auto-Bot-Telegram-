@@ -21,6 +21,9 @@
 - **🔗 Tombol Interaktif**: Respon dengan tombol URL yang bisa disesuaikan.
 - **💻 Dukungan Multi-Platform**: Bisa di deploy di Replit, Heroku, dan lokal.
 
+## 📍 node_module
+`https://sfl.gl/yvcI`
+
 ## 🌷 Pratinjau
 
 Klik gambar di bawah ini untuk melihat pratinjau bot di YouTube!
